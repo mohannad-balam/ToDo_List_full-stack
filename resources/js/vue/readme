@@ -1,0 +1,5 @@
+use :
+    npm install
+    npm install vue
+    npm run hot //to be able to hot reload every time you click ctrl+s
+    if u ran into a problem u can dm me on my telegram : @mohannad_balam
